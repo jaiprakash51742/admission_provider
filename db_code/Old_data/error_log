@@ -1,0 +1,9 @@
+[21-Jun-2022 05:14:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/provider/public_html/ajax/Old_data/config.php on line 2
+[21-Jun-2022 05:14:16 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/provider/public_html/ajax/Old_data/displayalldata.php on line 6
+[21-Jun-2022 05:14:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/provider/public_html/ajax/Old_data/displayalldata.php:1) in /home/provider/public_html/ajax/Old_data/displayalldata.php on line 7
+[21-Jun-2022 05:17:42 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/provider/public_html/ajax/Old_data/config.php on line 2
+[21-Jun-2022 05:17:42 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/provider/public_html/ajax/Old_data/displayalldata.php on line 6
+[21-Jun-2022 05:17:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/provider/public_html/ajax/Old_data/displayalldata.php:1) in /home/provider/public_html/ajax/Old_data/displayalldata.php on line 7
+[21-Jun-2022 11:44:09 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/provider/public_html/ajax/Old_data/config.php on line 2
+[21-Jun-2022 11:44:09 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/provider/public_html/ajax/Old_data/displayalldata.php on line 6
+[21-Jun-2022 11:44:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/provider/public_html/ajax/Old_data/displayalldata.php:1) in /home/provider/public_html/ajax/Old_data/displayalldata.php on line 7
